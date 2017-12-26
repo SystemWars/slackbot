@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@slack/client": "^3.15.0",
+    "@slack/events-api": "^1.0.1"
+  }
+}
